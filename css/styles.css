@@ -1,0 +1,20 @@
+body {
+    color: green;
+	font-family:verdana;
+}
+
+h1 {
+	border:2px solid tomato;
+	color:green;
+	text-align:center;
+}
+
+#pagetop {
+	text-align:center;
+}
+
+#wallpaper {
+	 border:2px solid green;
+	 text-align:center;
+}
+	
